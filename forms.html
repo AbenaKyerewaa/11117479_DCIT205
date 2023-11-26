@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title> FORMS </title>
+</head>
+
+<style>
+  body{ 
+   background-color: blueviolet ;
+   background-attachment: fixed;
+    margin: 0;
+    background-repeat: no-repeat;
+   background-size: cover;
+    }
+        
+    .form{
+       width: 1000px;
+        margin-inline: auto;
+       background-color: white;
+       background: transparent;
+       margin-top: 100px;
+       padding: 20px;
+       height: 1700px;
+       border-radius: 9px;
+       color: white;
+       border: 2px solid rgba (255, 255,255,.2);
+       
+    }
+    
+    .heading{
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        font-size: 30px;
+        margin-bottom: 7px;
+        text-align: center;
+        color:rgb(12, 12, 11);
+    }
+    .sub-head{
+        font-size: 18px;
+        text-align: center;
+        color: beige;
+    }
+
+    .instructions{
+      font-size: 16px;
+      text-align: center;
+      color: red;
+    }
+    .input-detail{
+        display: inline-block;
+        margin-right:50px;
+        
+    }
+    
+    .name-box :active{
+        background-color:rgb(116, 112, 112);
+    }
+    .name-box , .date-box{
+        margin-right: 12px;
+        margin-left: 70px;
+         border-color:beige;
+          border-radius: 3px; 
+          border-width: 2px;
+          height: 24px;
+          width: 200px
+          
+    
+    }
+    .date-box{
+         margin-left: 80px;
+    }
+    .phone-name{
+          margin-bottom: 15px;
+          margin-left: 70px;
+          margin-top: 4px;
+          border-color:beige;
+          size: 100px;
+          border-radius: 3px; 
+          border-width: 2px;
+          height: 24px;
+          width: 440px; 
+    }
+    .box{
+        margin-bottom: 50px;
+    }
+    .email-box{
+          
+          margin-left: 70px;
+          margin-top: 4px;
+          border-color:beige;
+          size: 100px;
+          border-radius: 3px; 
+          border-width: 2px;
+          height: 24px;
+          width: 440px
+          
+    }
+    
+    
+    .details{
+        margin-top: 40px;
+        margin-bottom: 60px;
+        text-align: left;
+    
+    }
+    .education, .org {
+        display: inline-block;
+        font-size: 18px;
+    }
+    .education-bground{
+        display: inline-block;
+        margin-left: 50px;
+        vertical-align: top;
+    }
+    .prim{
+        display: block;
+    }
+    .edu-back{
+        font-weight: bold;
+        font-size: 18px;
+        color:beige;
+       
+    }
+    .sch-course{
+        text-align: center;
+        margin-top: 35px;
+        margin-bottom: 60px;
+        
+    }
+    .organisation{
+        font-size: 18px;
+        text-align: center;
+        font-weight: bold;
+        font-size: 18px;
+        color: beige;
+    }
+    .org{
+        margin-left: 70px;
+        font-size: 18px;
+    }
+    .place-hol{
+        margin-left: 10px;
+        border-color:beige;
+        size: 100px;
+        border-radius: 3px; 
+        border-width: 2px;
+        height: 24px;
+        width: 200px
+        
+    }
+    .course-sch{
+        text-align: left;
+    }
+    .submit-button{
+        background-color:rgb(44, 42, 88);
+        border: none; height: 30px; width: 105px;
+        color:white;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-right: 10px;
+        transition: opacity 0.1s;
+        }
+    
+        .submit-button:hover{
+               opacity: 0.7;
+               transition: background-color 1s;
+               color: 1s;
+    
+        }
+        .submit-button:active{
+          opacity: 0.4;           
+         }
+    
+          .submit{
+           text-align: center;
+           margin-top: 100px;
+          }
+        .sch{
+            display: inline-block;
+        
+        }
+        .level{
+            display: inline-block;
+        }
+
+        
+</style>
+
+<body >
+    <div class="bgcolor">  
+    
+<div class="form">
+    <form>
+     <div class="body">
+        <p class="heading"> <b>Web Registration Form</b></p>
+        <p class="sub-head"> 
+            Please fill this form to register for short course web development at the University of Ghana Computer Science Department
+        </p>
+
+       <p class="instructions">
+        &#42;indicates required questions
+       </p>
+       
+       
+    <div class="details">
+        <div class="box ">
+           <p class="input-detail">Name&#42;</p>
+           <input class="name-box" placeholder="First" required> 
+            <input required class="name-box" placeholder="Last">
+        </p>
+        </div>
+              
+       
+        <div class="box">
+            <p class="input-detail">Email&#42;</p> <input placeholder="abenakyerewaa.06@gmial.com" required class="email-box">
+        </div>
+
+        <div class="box">
+          <p class="input-detail">Phone&#42;</p><input type="tel" class="phone-name" placeholder="#### #### ####">
+      </div>
+
+        <div class="box">
+          <p class="input-detail">Date of Birth&#42;</p>
+          <input class="date-box" placeholder="mm/dd/yyyy">
+      </div>
+
+    
+        
+       </div>
+       <div class="sch-course">
+       
+       <div class="education-bground" >
+             <p class="edu-back"> Required Course&#42;</p>
+             <div class="course-sch">
+       <div  class="prim"><input name="school" type="radio" ><p class="education">HTML and CSS</p></div>
+       </div>
+       </div>
+       <div class="education-bground" >
+        <p class="edu-back"> Select your courses you want to register&#42; </p>
+        <div class="course-sch">
+  <div class="prim"> <input  type="checkbox" ><p class="education">Javascript</p></div>
+  <div class="prim"><input  type="checkbox" ><p class="education">Structured Query Language(SQL)</p></div>
+  <div class="prim"> <input  type="checkbox" ><p class="education">Ruby</p></div>
+  <div class="prim"> <input  type="checkbox" ><p class="education">Python</p></div>
+  
+  </div>
+       </div>
+            <div class="education-bground " >
+                <p class="edu-back">Educational Background&#42;</p>
+                <div class="level">
+          <div class="sch"> <input  type="checkbox" ><p class="education">Primary School</p></div>
+          <div class="sch"><input  type="checkbox" ><p class="education">Secondary School</p></div>
+          <div class="sch"> <input  type="checkbox" ><p class="education">Bachelor's Degree</p></div>
+          <div class="sch"> <input  type="checkbox" ><p class="education">Master's Degree</p></div>
+          <div class="sch"> <input  type="checkbox" ><p class="education">PhD</p></div>
+          </div>
+               </div>
+                
+        
+       <p class="organisation">Enter Organisation</p>
+
+       <p class="org">Enter Organisation</p><input class="place-hol" type="org" placeholder="your answer">
+       <p class="org" >Position</p><input  class="place-hol" type="org" placeholder="your answer">
+     </div>
+
+     
+
+     <div class="submit">
+        <button class="submit-button">Submit</button>
+    </div>
+    </div>
+   
+    </div>
+     </form>
+</div>
+    </div>
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var form = document.querySelector('form');
+            form.addEventListener('submit', function (event) {
+                var nameBox = document.querySelector('.name-box');
+                var emailBox = document.querySelector('.email-box');
+                var phoneBox = document.querySelector('.phone-name');
+                var dateBox = document.querySelector('.date-box');
+
+                if (nameBox.value.trim() === '' || emailBox.value.trim() === '' || phoneBox.value.trim() === '' || dateBox.value.trim() === '') {
+                    
+                    event.preventDefault();
+                    alert('Please fill in all required fields.');
+                } else {
+                    // Display a success message
+                    alert('Form submitted successfully!');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
