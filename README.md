@@ -11,16 +11,26 @@ HOW TO CLONE AND SET UP THE PROJECT
 •	Pull Changes: Always pull the latest changes from the remote repository using git pull origin main.
 
 SCREENSHOTS OF MY WEBPAGES.
-![H1](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/f1302bd6-8f0e-4f10-8412-e5525d76e487)
+
+![H1](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/bb0b3721-fb33-4c55-a411-8315307323ed)
+
 ![H2](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/0fcc1a6a-b0e5-4253-a002-44af09fe2d4a)
 ![next](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/4cb79e0e-2d4b-42c7-925f-bda5458b0066)
-![ab1](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/20f43193-13cc-4e45-8287-d8307f70561b)
-![ab2](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/39f9c20c-3af8-4c9e-ab48-59f16a92d5cf)
-![ab3](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/0d75291c-83b6-41f2-8e21-6a9acaf3b49d)
-![eve](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/e9bea39a-f3b8-4d4e-b236-b11f3b2033fa)
-![eve1](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/d35aeb44-971c-4579-b771-842abb87dc93)
-![eve2](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/8ca9e8f8-3ff5-462c-a55c-4bb6c2c0d5f2)
-![eve3](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/896bfcb0-ee90-41e6-b870-6791f09e001e)
+
+![ab1](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/8fdaf962-c9b0-4e22-805f-39b1f3258dd4)
+
+![ab2](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/03ffaf6d-c26c-4534-a78e-c3af10ecfc7e)
+
+![ab3](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/f7706b69-29c2-4bf0-bd0f-4bc447ba0c3c)
+
+![eve](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/6599bf67-22b4-4582-88dc-6d4e46dc1d2e)
+
+![eve1](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/f46cd4c5-14a1-4df7-bf3e-10a0d2b6c965)
+
+![eve2](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/81702e87-4b2c-4738-833d-e2f4ba6af440)
+
+![eve3](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/65a718f0-d5a2-429d-9657-97d7734f5969)
+
 ![uc1](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/dff209fb-68b8-483c-a30f-822b39007c0c)
 ![uc2](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/f4a3d2f5-a063-46b2-8df8-5cbfa07ff15e)
 ![uc3](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/15d17293-6ebd-42a0-9a46-203ef162925d)
