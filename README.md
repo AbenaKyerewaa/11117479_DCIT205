@@ -40,6 +40,9 @@ SCREENSHOTS OF MY WEBPAGES.
 ![gc2](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/ded238e2-1191-47d6-afcd-ab5a8a255762)
 ![rch1](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/fbf7493b-7624-4549-9af9-b4506e105378)
 ![rch2](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/0b6f17bd-4388-4a82-8d75-87c752adddb1)
+
+![rch3](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/7f3fe0fa-addb-4604-b87a-b61a2c5d0202)
+
 ![res1](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/37c1675d-607e-474e-ba06-f9d87bc044da)
 ![res2](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/cceaa0e0-6312-4643-9c9b-ff999d472f52)
 ![res3](https://github.com/AbenaKyerewaa/11117479_DCIT205/assets/151375986/77fd6983-38bc-4ee0-a63e-31f5e1dacc7e)
