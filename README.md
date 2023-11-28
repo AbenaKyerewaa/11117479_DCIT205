@@ -1,9 +1,11 @@
 # DCIT_205_IA
 INTRODUCTION
+
       This is a website of 10 pages for the computer science department in the University of Ghana, Legon.  These pages includes the home page, intro , events, gallery, undergraduate courses, graduate courses, research, resources, about and a read-me. This website shows some information about the department.
       The first page has a link to the second page, the second page has 7 links which leads to 7 different webpages and 1 takes you back to the first page. And there are 2 other links on two different webpages.
 
 HOW TO CLONE AND SET UP THE PROJECT
+
      First off,  I signed up to GitHub, installed git and VS code for this project. So, I copy the repository URL to clone it in GitHub. Opened the terminal in vs code, use the cd command to navigate to the directory where I  wanted to clone the project,  used the git clone command to clone the repository and paste the URL copied from GitHub. Opened  an integrated terminal and used it to run the project. Run various tests to ensure that the project is working as expected.
 •	Commit and Push Changes: After making changes to the code, I used Git commands (git add, git commit, git push) to update the repository on GitHub.
 •	Pull Changes: Always pull the latest changes from the remote repository using git pull origin main.
