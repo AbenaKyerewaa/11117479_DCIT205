@@ -8,6 +8,7 @@ HOW TO CLONE AND SET UP THE PROJECT
 
      First off,  I signed up to GitHub, installed git and VS code for this project. So, I copy the repository URL to clone it in GitHub. Opened the terminal in vs code, use the cd command to navigate to the directory where I  wanted to clone the project,  used the git clone command to clone the repository and paste the URL copied from GitHub. Opened  an integrated terminal and used it to run the project. Run various tests to ensure that the project is working as expected.
 •	Commit and Push Changes: After making changes to the code, I used Git commands (git add, git commit, git push) to update the repository on GitHub.
+
 •	Pull Changes: Always pull the latest changes from the remote repository using git pull origin main.
 
 NAME: BRESAA ABENA KYEREWAA
